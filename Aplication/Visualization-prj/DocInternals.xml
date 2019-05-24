@@ -6,13 +6,15 @@
     <bool>false</bool>
     <bool>false</bool>
     <bool>false</bool>
+    <bool>false</bool>
   </AlwaysLoose>
   <FieldSrcTables>
     <String>6</String>
-    <String>3</String>
+    <String>4</String>
     <String>NUM_OF_CITY</String>
     <String>REGION</String>
     <String>STATE</String>
+    <String>CERVEJARIAS</String>
     <String>7</String>
     <String>1</String>
     <String>NUM_OF_CITY</String>
@@ -34,6 +36,12 @@
     <String>13</String>
     <String>1</String>
     <String>STATE</String>
+    <String>14</String>
+    <String>1</String>
+    <String>CERVEJARIAS</String>
+    <String>15</String>
+    <String>1</String>
+    <String>CERVEJARIAS</String>
   </FieldSrcTables>
   <TableViewData>
     <Pos></Pos>
@@ -147,6 +155,8 @@
           <String>$FieldNo</String>
           <String>Number_of_city</String>
           <String>Populacao</String>
+          <String>Ano</String>
+          <String>Qtd_Cervejarias</String>
         </FieldNames>
       </FieldTagData>
       <FieldTagData>
@@ -157,6 +167,8 @@
           <String>$FieldNo</String>
           <String>Number_of_city</String>
           <String>Populacao</String>
+          <String>Ano</String>
+          <String>Qtd_Cervejarias</String>
         </FieldNames>
       </FieldTagData>
     </ScriptBased>

@@ -39,5 +39,10 @@ LOAD Sigla AS %Sigla,
      Regiao&'-'&Sigla AS RegionState
 FROM Table\region$.qvd (qvd);
 
- 
+CERVEJARIAS:
+LOAD Sigla AS %Sigla, 
+     Ano, 
+     Qtd_Cervejarias
+FROM Table\cervejarias$.qvd (qvd); 
+
 $(Must_Include=Table\Includes\storeAllTables.txt)

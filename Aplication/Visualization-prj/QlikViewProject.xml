@@ -1,4 +1,4 @@
-﻿<!-- Last project change: 2019-05-24 16:22:06 (2019-05-24 19:22:06) -->
+﻿<!-- Last project change: 2019-05-24 17:50:04 (2019-05-24 20:50:04) -->
 <PrjQlikViewProject>
   <GLOBAL>
     <AllPropertiesFileName>AllProperties.xml</AllPropertiesFileName>
@@ -14,6 +14,23 @@
       <SheetId>Document\SH01</SheetId>
       <IsActive>true</IsActive>
       <ChildObjects>
+        <PrjFrameParentDef>
+          <ObjectId>Document\TX07_398973114</ObjectId>
+          <Rect>
+            <Left>22</Left>
+            <Top>784</Top>
+            <Width>1169</Width>
+            <Height>1009</Height>
+          </Rect>
+          <MinimizedRect>
+            <Left>0</Left>
+            <Top>0</Top>
+            <Width>297</Width>
+            <Height>102</Height>
+          </MinimizedRect>
+          <ShowMode>1</ShowMode>
+          <ZedLevel>-16</ZedLevel>
+        </PrjFrameParentDef>
         <PrjFrameParentDef>
           <ObjectId>Document\TX06</ObjectId>
           <Rect>
@@ -38,6 +55,23 @@
             <Top>678</Top>
             <Width>2900</Width>
             <Height>1088</Height>
+          </Rect>
+          <MinimizedRect>
+            <Left>0</Left>
+            <Top>0</Top>
+            <Width>297</Width>
+            <Height>102</Height>
+          </MinimizedRect>
+          <ShowMode>1</ShowMode>
+          <ZedLevel>-10</ZedLevel>
+        </PrjFrameParentDef>
+        <PrjFrameParentDef>
+          <ObjectId>Document\CH05_536918276</ObjectId>
+          <Rect>
+            <Left>28</Left>
+            <Top>803</Top>
+            <Width>1141</Width>
+            <Height>991</Height>
           </Rect>
           <MinimizedRect>
             <Left>0</Left>
@@ -157,6 +191,23 @@
             <Top>28</Top>
             <Width>422</Width>
             <Height>681</Height>
+          </Rect>
+          <MinimizedRect>
+            <Left>0</Left>
+            <Top>0</Top>
+            <Width>297</Width>
+            <Height>102</Height>
+          </MinimizedRect>
+          <ShowMode>1</ShowMode>
+          <ZedLevel>0</ZedLevel>
+        </PrjFrameParentDef>
+        <PrjFrameParentDef>
+          <ObjectId>Document\LB05_369137651</ObjectId>
+          <Rect>
+            <Left>22</Left>
+            <Top>344</Top>
+            <Width>219</Width>
+            <Height>900</Height>
           </Rect>
           <MinimizedRect>
             <Left>0</Left>
