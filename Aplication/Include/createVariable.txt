@@ -1,0 +1,6 @@
+Sub createVariable(nameVariable,stringVariable)
+
+Set [$(nameVariable)] = [$(stringVariable)];
+Let [$(nameVariable)] = Replace([$(nameVariable)],'@',chr(36));
+
+End Sub

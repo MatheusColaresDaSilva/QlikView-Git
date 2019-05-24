@@ -1,0 +1,6 @@
+let numTables = NoOfTables();
+for i=1 to $(numTables)
+	let t = TableName(0);
+	STORE [$(t)] into [$(t).qvd];
+	drop table [$(t)];
+next 
